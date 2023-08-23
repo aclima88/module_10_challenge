@@ -52,7 +52,7 @@
         c. Convert the query result to a pandas DataFrame.
         
         d. Plot the temperature data as a histogram.
-![Prcp_data_past_year](https://github.com/aclima88/module_10_challenge/assets/133547307/a93e0ffa-5fd8-49cc-b2ab-d5241ca7dcc7)
+![temp_data_past_year](https://github.com/aclima88/module_10_challenge/assets/133547307/ee4940f6-2f15-4d55-ac01-923844c1d623)
         
 
 
