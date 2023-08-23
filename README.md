@@ -3,6 +3,7 @@
 ** Import the required modules **
 
 ** Reflect Tables into SQLAlchemy ORM **
+
     1. Python SQL toolkit and Object Relational Mapper.
     
     2. Create engine to hawaii.sqlite.
@@ -18,6 +19,7 @@
     7. Find the most recent date in the data set.
     
 ** Exploratory Precipitation Analysis **
+
     1. Find the most recent date in the data set.
     
     2.Design a query to retrieve the last 12 months of precipitation data and plot the results. Starting from the most recent data point in the database. 
@@ -34,6 +36,7 @@
     7. Use Pandas to calculate the summary statistics for the precipitation data.
     
 ** Exploratory Station Analysis **
+
     1. Design a query to calculate the total number of stations in the dataset.
     
     2.Design a query to find the most active stations (i.e. which stations have the most rows?) List the stations and their counts in descending order.
